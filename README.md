@@ -30,3 +30,6 @@ AI_Chatbot/
 ├── requirements.txt    # Python dependencies
 ├── .gitignore          # Prevents private/unnecessary files from being uploaded
 └── README.md           # Project documentation
+
+## LIVE DEMO
+[TRY THE AI CHATBOT ](https://littlechatbot.streamlit.app/)
