@@ -32,4 +32,4 @@ AI_Chatbot/
 └── README.md           # Project documentation
 
 ## LIVE DEMO
-[TRY THE AI CHATBOT ](https://littlechatbot.streamlit.app/)
+[TRY THE AI CHATBOT ](https://littlechatbot.streamlit.app)
